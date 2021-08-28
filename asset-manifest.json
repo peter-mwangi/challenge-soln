@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/challenge-soln/static/css/main.dd3f33c0.chunk.css",
+    "main.js": "/github.io/challenge-soln/static/js/main.9874a7b2.chunk.js",
+    "main.js.map": "/github.io/challenge-soln/static/js/main.9874a7b2.chunk.js.map",
+    "runtime-main.js": "/github.io/challenge-soln/static/js/runtime-main.76a4ec40.js",
+    "runtime-main.js.map": "/github.io/challenge-soln/static/js/runtime-main.76a4ec40.js.map",
+    "static/js/2.3989bf93.chunk.js": "/github.io/challenge-soln/static/js/2.3989bf93.chunk.js",
+    "static/js/2.3989bf93.chunk.js.map": "/github.io/challenge-soln/static/js/2.3989bf93.chunk.js.map",
+    "index.html": "/github.io/challenge-soln/index.html",
+    "static/css/main.dd3f33c0.chunk.css.map": "/github.io/challenge-soln/static/css/main.dd3f33c0.chunk.css.map",
+    "static/js/2.3989bf93.chunk.js.LICENSE.txt": "/github.io/challenge-soln/static/js/2.3989bf93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76a4ec40.js",
+    "static/js/2.3989bf93.chunk.js",
+    "static/css/main.dd3f33c0.chunk.css",
+    "static/js/main.9874a7b2.chunk.js"
+  ]
+}
